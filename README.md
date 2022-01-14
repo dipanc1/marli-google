@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Google Clone app.Using React and Google Search API.
+Google Clone app, using React and Google Search API.
 
 Setup:
 - run ```npm i && npm start``` to start the development server
