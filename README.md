@@ -1,4 +1,4 @@
-# marli-google - The Most Unique Search Engine in the World
+# marli-google
 
 ![marli-google](https://res.cloudinary.com/dipanc1/image/upload/v1642153884/github/Screenshot_239_exjf8i.png)
 
